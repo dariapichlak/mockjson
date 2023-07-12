@@ -2,45 +2,56 @@
   "subjects": [
     {
       "id": 1,
-      "title": "Zremontowani"
+      "title": "Artykuł nr 1"
     },
     {
       "id": 2,
-      "title": "Artykuł"
+      "title": "Artykuł nr 2"
     },
     {
       "id": 3,
-      "title": "Panele"
+      "title": "Artykuł nr 3"
     },
     {
       "id": 4,
-      "title": "Trolololo"
+      "title": "Artykuł nr 4"
     }
   ],
   "articles": [
     {
       "id": 1,
-      "author_id": 1,
-      "picture": "https://picsum.photos/id/1003/100/300",
-      "content": "Litwo! Ojczyzno moja! Ty jesteś jak zdrowie. Nazywał się możemy na wieś rozweselić. Tadeusz Telimenie, Asesor Krajczance a często bez żadnych ozdób, ale szerzej niż myśliwi młodzi tak było jeszcze dobrze zachowana sklepienie całe zaczerwienione, jak on znowu w kuca. Obaczcież, co dzień postrzegam, jak czas i zdrowie. Nazywał się zdawał małpą lub wymowy uczyć się tłocz i tam ma szkół uczących żyć z dom nikt lepiej nad błękitnym Niemnem rozciągnionych. Do zobaczenia! tak wedle dzisiejszej mody jeździł Hreczecha. Tu śmiech młodzieży mowę Wojskiego zagłuszył."
+      "article_id": 1,
+      "content": "Narzędzia"
     },
     {
       "id": 2,
-      "author_id": 1,
-      "picture": "https://picsum.photos/id/1006/300/100",
-      "content": "Drogi Marszałku, Wysoka Izbo. PKB rośnie. Nie chcę państwu niczego sugerować, ale stałe zabezpieczenie informacyjne naszej działalności rozszerza nam horyzonty istniejących kryteriów rozszerza nam horyzonty obecnej sytuacji. W praktyce skoordynowanie pracy obu urzędów jest ważne z powodu kolejnych kroków w większym stopniu tworzenie systemu powszechnego uczestnictwa. I staje się wskaźniki... Nikt inny was nie trzeba udowadniać, ponieważ zmiana istniejących kryteriów umożliwia w wypracowaniu nowych propozycji. W sumie zmiana przestarzałego systemu powszechnego uczestnictwa."
+      "article_id": 1,
+      "content": "Materiały"
     },
     {
       "id": 3,
-      "author_id": 2,
-      "picture": "https://picsum.photos/id/1003/200/200",
-      "content": "Początek traktatu czasu panowania Fryderyka Wielkiego, Króla Pruskiego żył w parnej rzeczy niemożemy przypuścić, lecz on podług niej oznaczyć, o najwyższej Istności przypuścić i kary wprost pszenikający. Albowiem w takowym przyszło dorozumiewał odmiany w tym zależy, że nią niejest, boby to już każdy deptać będzie! Wypada nam granice naszego ku doskonałości. "
+      "article_id": 1,
+      "content": "Wykonanie"
     },
     {
       "id": 4,
-      "author_id": 4,
-      "picture": "https://picsum.photos/id/1011/100/300",
-      "content": "Lorem ipsum dolor sit amet tempor vitae, pellentesque erat velit ac nibh ac purus. Duis blandit eu, facilisis hendrerit. Fusce consequat ac, suscipit quis, ipsum. Nam posuere. Quisque pharetra, urna quis massa at sapien pede lobortis volutpat."
+      "author_id": 2,
+      "content": "Narzędzia"
+    },
+     {
+      "id": 5,
+      "author_id": 2,
+      "content": "Materiały"
+    },
+     {
+      "id": 6,
+      "author_id": 2,
+      "content": "Wykonanie"
+    },
+     {
+      "id": 7,
+      "author_id": 3,
+      "content": "Narzędzia"
     }
   ]
 }
