@@ -1,5 +1,5 @@
 {
-  "subjects": [
+  "articles": [
     {
       "id": 1,
       "title": "Artykuł nr 1"
@@ -17,7 +17,7 @@
       "title": "Artykuł nr 4"
     }
   ],
-  "articles": [
+  "subjects": [
     {
       "id": 1,
       "article_id": 1,
