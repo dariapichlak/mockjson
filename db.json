@@ -35,22 +35,22 @@
     },
     {
       "id": 4,
-      "author_id": 2,
+      "article_id": 2,
       "content": "Narzędzia"
     },
      {
       "id": 5,
-      "author_id": 2,
+      "article_id": 2,
       "content": "Materiały"
     },
      {
       "id": 6,
-      "author_id": 2,
+      "article_id": 2,
       "content": "Wykonanie"
     },
      {
       "id": 7,
-      "author_id": 3,
+      "article_id": 3,
       "content": "Narzędzia"
     }
   ]
