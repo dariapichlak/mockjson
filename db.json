@@ -2,19 +2,19 @@
   "subjects": [
     {
       "id": 1,
-      "first_name": "Zremontowani"
+      "title": "Zremontowani"
     },
     {
       "id": 2,
-      "first_name": "Artykuł"
+      "title": "Artykuł"
     },
     {
       "id": 3,
-      "first_name": "Panele"
+      "title": "Panele"
     },
     {
       "id": 4,
-      "first_name": "Trolololo"
+      "title": "Trolololo"
     }
   ],
   "articles": [
