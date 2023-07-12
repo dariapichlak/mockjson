@@ -1,0 +1,52 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Artykuł",
+    },
+    {
+      "id": 2,
+      "title": "Artykuł 2",
+    },
+    {
+      "id": 3,
+     "title": "Artykuł 3",
+    },
+    {
+      "id": 4,
+      "title": "Artykuł 4",
+    }
+  ],
+  "descriptions": [
+    {
+      "id": 1,
+      "article_id": 1,
+      "content": "Tutaj powstaje lista narzędzi."
+    },
+    {
+      "id": 2,
+      "article_id": 1,
+      "content": "Tutaj powstaje lista materiałów."
+    },
+    {
+      "id": 3,
+      "article_id": 1,
+      "content": "Tutaj powstaje opis czynności."
+    },
+    {
+      "id": 4,
+      "article_id": 2,
+      "content": "Tutaj powstaje lista narzędzi."
+    },
+    {
+      "id": 5,
+      "article_id": 2,
+      "content": "Tutaj powstaje lista materiałów."
+    },
+    {
+      "id": 6,
+      "article_id": 2,
+      "content": "Tutaj powstaje lista czynności."
+    },
+  ]
+}
