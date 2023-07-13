@@ -2,19 +2,23 @@
   "articles": [
     {
       "id": 1,
-      "title": "Artykuł nr 1"
+      "title": "Artykuł nr 1",
+      "text": "Nowy tekst"
     },
     {
       "id": 2,
-      "title": "Artykuł nr 2"
+      "title": "Artykuł nr 2",
+      "text": "Nowy tekst"
     },
     {
       "id": 3,
-      "title": "Artykuł nr 3"
+      "title": "Artykuł nr 3",
+      "text": "Nowy tekst"
     },
     {
       "id": 4,
-      "title": "Artykuł nr 4"
+      "title": "Artykuł nr 4",
+      "text": "Nowy tekst"
     }
   ],
   "subjects": [
