@@ -21,11 +21,7 @@
     {
       "id": 1,
       "article_id": 1,
-      "content": [
-        "Narzędzia", 
-        "Lista",
-        "Lista2"
-      ]
+      "content": "Narzędzia"
     },
     {
       "id": 2,
