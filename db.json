@@ -3,59 +3,30 @@
     {
       "id": 1,
       "title": "Artykuł nr 1",
-      "text": "Nowy tekst"
+      "n": "Lista narzędzi do artykułu nr 1",
+      "m": "Lista materiałów do artykułu nr 1",
+      "w": "Opis jak wykonać krok po kroku"
     },
     {
       "id": 2,
       "title": "Artykuł nr 2",
-      "text": "Nowy tekst"
+      "n": "Lista narzędzi do artykułu nr 2",
+      "m": "Lista materiałów do artykułu nr 2",
+      "w": "Opis jak wykonać krok po kroku"
     },
     {
       "id": 3,
       "title": "Artykuł nr 3",
-      "text": "Nowy tekst"
+      "n": "Lista narzędzi do artykułu nr 3",
+      "m": "Lista materiałów do artykułu nr 3",
+      "w": "Opis jak wykonać krok po kroku"
     },
     {
       "id": 4,
       "title": "Artykuł nr 4",
-      "text": "Nowy tekst"
+      "n": "Lista narzędzi do artykułu nr 4",
+      "m": "Lista materiałów do artykułu nr 4,
+      "w": "Opis jak wykonać krok po kroku"
     }
   ],
-  "subjects": [
-    {
-      "id": 1,
-      "article_id": 1,
-      "content": "Narzędzia"
-    },
-    {
-      "id": 2,
-      "article_id": 1,
-      "content": "Materiały"
-    },
-    {
-      "id": 3,
-      "article_id": 1,
-      "content": "Wykonanie"
-    },
-    {
-      "id": 4,
-      "article_id": 2,
-      "content": "Narzędzia"
-    },
-     {
-      "id": 5,
-      "article_id": 2,
-      "content": "Materiały"
-    },
-     {
-      "id": 6,
-      "article_id": 2,
-      "content": "Wykonanie"
-    },
-     {
-      "id": 7,
-      "article_id": 3,
-      "content": "Narzędzia"
-    }
-  ]
 }
