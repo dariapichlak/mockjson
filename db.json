@@ -83,6 +83,13 @@
       "n": "Lista narzędzi do artykułu nr 4",
       "m": "Lista materiałów do artykułu nr 4",
       "w": "Opis jak wykonać krok po kroku"
+    },
+    {
+      "id": 13,
+      "title": "Artykuł nr 3",
+      "n": "Lista narzędzi do artykułu nr 3",
+      "m": "Lista materiałów do artykułu nr 3",
+      "w": "Opis jak wykonać krok po kroku"
     }
   ]
 }
